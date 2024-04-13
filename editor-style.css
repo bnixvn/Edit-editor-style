@@ -1,0 +1,10 @@
+p, .wp-block[data-type="kadence/advancedheading"]:not(:last-child) p {
+    margin-bottom: 5px;
+}
+body.mce-content-body h2, body.mce-content-body h1 {
+    margin-top: 5px;
+}
+
+ body.mce-content-body ul {
+     margin-bottom: 10px;
+ }
